@@ -175,9 +175,7 @@ CosechaSmart es un sistema embebido en la infraestructura del viñedo que integr
 
 ### Diagramas
 
-- **Diagrama de arquitectura IoT:** Representación de la comunicación entre sensores, gateway, backend y clientes web/móvil. *(Ver archivo adjunto: CosechaSmart.drawio)*
-- **Diagrama de casos de uso:** Interacciones entre los actores (Ingeniero Agrónomo, Operario de Campo, Propietario y Sistema) con los casos de uso definidos.
-- **Modelo entidad-relación (MER):** Estructura de la base de datos incluyendo entidades Parcela, Sensor, Lectura, Alerta, Calentador y Usuario.
+- **Diagrama de casos de uso:** Interacciones entre los actores (Ingeniero Agrónomo, Operario de Campo, Propietario y Sistema) con los casos de uso definidos. *(Ver archivo adjunto: CosechaSmart.drawio)*
 
 ---
 
