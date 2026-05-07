@@ -175,7 +175,7 @@ CosechaSmart es un sistema embebido en la infraestructura del viñedo que integr
 
 ### Diagramas
 
-- **Diagrama de casos de uso:** Interacciones entre los actores (Ingeniero Agrónomo, Operario de Campo, Propietario y Sistema) con los casos de uso definidos. *(Ver archivo adjunto: CosechaSmart.drawio)*
+- **Diagrama de casos de uso:** Interacciones entre los actores (Ingeniero Agrónomo, Operario de Campo, Propietario y Sistema) con los casos de uso definidos. *[(Ver archivo adjunto: CosechaSmart.drawio)](https://drive.google.com/file/d/14vAdJyAGPjq6caxds83mtiPbcJIInqK3/view?usp=drive_link)*
 
 ---
 
