@@ -86,8 +86,8 @@ Conexiones del Router Melo "r-s-melo"
 # Comandos
 
 ##### Referencias
-![VLAN SVI](https://ipcisco.com/lesson/switch-virtual-interface-configuration-on-packet-tracer-ccnp/)
-![VLAN SVI - demostracion](https://chverma.com/smr-ral/UD08_es/841_uso_del_mdulo_hwic4esw_4_puertos_de_switch.html)
+!(VLAN SVI)[https://ipcisco.com/lesson/switch-virtual-interface-configuration-on-packet-tracer-ccnp]
+!(VLAN SVI - demostracion)[https://chverma.com/smr-ral/UD08_es/841_uso_del_mdulo_hwic4esw_4_puertos_de_switch.html]
 
 ### ISP
     - enable
