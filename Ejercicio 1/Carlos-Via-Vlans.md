@@ -85,6 +85,9 @@ Conexiones del Router Melo "r-s-melo"
 
 # Comandos
 
+##### Referencias
+![VLAN SVI](https://ipcisco.com/lesson/switch-virtual-interface-configuration-on-packet-tracer-ccnp/)
+
 ### ISP
     - enable
     - configure terminal
