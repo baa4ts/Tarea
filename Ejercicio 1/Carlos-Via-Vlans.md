@@ -85,6 +85,16 @@ Conexiones del Router Melo "r-s-melo"
 
 # Comandos
 
+##### Referencias
+
+[VLAN SVI - foro - parte 1 - 2 puertos para una sola red](https://networkengineering.stackexchange.com/questions/46436/cisco-two-interfaces-on-one-network)
+
+[VLAN SVI - foro - parte 2](https://networkengineering.stackexchange.com/questions/46442/cisco-2811-vlans-subinterfaces-hwic-4esw)
+
+[VLAN SVI - demostracion](https://chverma.com/smr-ral/UD08_es/841_uso_del_mdulo_hwic4esw_4_puertos_de_switch.html)
+
+[VLAN SVI - otro](https://ipcisco.com/lesson/switch-virtual-interface-configuration-on-packet-tracer-ccnp)
+
 ### ISP
     - enable
     - configure terminal
