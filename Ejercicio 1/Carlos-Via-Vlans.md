@@ -87,7 +87,7 @@ Conexiones del Router Melo "r-s-melo"
 
 ##### Referencias
 
-[VLAN SVI - foro - parte 1](https://networkengineering.stackexchange.com/questions/46436/cisco-two-interfaces-on-one-network)
+[VLAN SVI - foro - parte 1 - 2 puertos para una sola red](https://networkengineering.stackexchange.com/questions/46436/cisco-two-interfaces-on-one-network)
 
 [VLAN SVI - foro - parte 2](https://networkengineering.stackexchange.com/questions/46442/cisco-2811-vlans-subinterfaces-hwic-4esw)
 
