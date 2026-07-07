@@ -89,7 +89,8 @@ Conexiones del Router Melo "r-s-melo"
 
 (VLAN SVI)[https://ipcisco.com/lesson/switch-virtual-interface-configuration-on-packet-tracer-ccnp]
 (VLAN SVI - demostracion)[https://chverma.com/smr-ral/UD08_es/841_uso_del_mdulo_hwic4esw_4_puertos_de_switch.html]
-(VLAN SVI - foro)[https://networkengineering.stackexchange.com/questions/46442/cisco-2811-vlans-subinterfaces-hwic-4esw]
+(VLAN SVI - foto - parte 1)[https://networkengineering.stackexchange.com/questions/46436/cisco-two-interfaces-on-one-network]
+(VLAN SVI - foro - parte 2)[https://networkengineering.stackexchange.com/questions/46442/cisco-2811-vlans-subinterfaces-hwic-4esw]
 
 ### ISP
     - enable
